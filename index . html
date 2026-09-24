@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>SpendWise</title>
+</head>
+<body>
+<div class="dashboard">
+<header class="header">
+<div>💰 SpendWise</div>
+<div class="avatar">JD</div>
+</header>
+<aside class="sidebar">
+<p>Dashboard</p>
+<p>Transactions</p>
+<p>Analytics</p>
+</aside>
+<main class="main">
+<h2>Expenses</h2>
+<div class="cards-grid">
+<div class="card">Food 8500 <span class="badge">32%</span></div>
+<div class="card">Transport 4200 <span class="badge">18%</span></div>
+<div class="card">Rent 15000 <span class="badge">45%</span></div>
+<div class="card">Entertainment 3500 <span class="badge">12%</span></div>
+<div class="card">Savings 10000 <span class="badge">25%</span></div>
+<div class="card">Shopping 6800 <span class="badge">20%</span></div>
+</div>
+</main>
+</div>
+</body>
+</html>
